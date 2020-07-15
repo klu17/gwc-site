@@ -5,7 +5,11 @@ class Resources extends Component {
     return (
       <div>
         <h2>Resources</h2>
-        <p>Links to learning sources and other things.</p>
+        <p>Here are some links to learning resources and tools.</p>
+        <ul>
+          <li>https://www.typingclub.com/</li>
+          <li>https://www.typingclub.com/</li>
+        </ul>
       </div>
     );
   }
