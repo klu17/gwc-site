@@ -5,7 +5,20 @@ class AboutUs extends Component {
     return (
       <div>
         <h2>About Us</h2>
-        <p>Stephen, Sadaf, Karmen, Kelly, etc.</p>
+        <section>
+          <h3>Stephen Alt | Instructor</h3>
+        </section>
+        <section>
+          <h3>Sadaf Khansalar | Instructional Facilitator</h3>
+        </section>
+        <section>
+          <h3>Karmen Lu | Instructional Facilitator</h3>
+        </section>
+        <section>
+          <h3>Kelly Luis | Club Instructor</h3>
+        </section>
+        <p>Grove Hall Branch of the Boston Public Library<br/>
+        41 Geneva Ave, Dorchester, MA 02121</p>
       </div>
     );
   }
